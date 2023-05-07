@@ -1,0 +1,1 @@
+# Cypress_Teste_Regressao_Visual
